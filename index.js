@@ -1,0 +1,1 @@
+let mensaje = "Mensaje de bienvenida"
