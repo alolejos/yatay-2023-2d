@@ -1,1 +1,2 @@
-let mensaje = "Mensaje de bienvenida"
+let mensaje = prompt("Ingrese su mensaje");
+alert(mensaje)
