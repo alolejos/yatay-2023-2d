@@ -1,0 +1,20 @@
+{
+  "name": "yatay-2023-2d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alolejos/yatay-2023-2d.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alolejos/yatay-2023-2d/issues"
+  },
+  "homepage": "https://github.com/alolejos/yatay-2023-2d#readme"
+}
